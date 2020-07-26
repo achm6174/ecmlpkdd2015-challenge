@@ -1,6 +1,6 @@
 ## Summary
 Please refer to my blog post:
-https://achm6174.github.io/data-science/kaggle/2015/07/05/chung2015ecmlpkdd2015taxi.html
+https://achm6174.github.io/chung2015ecmlpkdd2015taxi.html
 
 ## Instruction
 #### Download Data
